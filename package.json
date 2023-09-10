@@ -1,7 +1,7 @@
 {
-  "name": "nextra-docs-template",
+  "name": "maidang.link",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "maidang's project blog",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "ghttps://github.com/Maidang1/100"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": "Maidang1 <felixwliu606@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
+    "url": "https://github.com/Maidang1/100/issues"
   },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://maidang.link",
   "dependencies": {
     "next": "^13.0.6",
     "nextra": "latest",
